@@ -1,6 +1,6 @@
 # Ecomm Boilerplate
 
-Simple validatino for microfronends concepts
+Simple validation for microfrontend concepts
 
 ## Description
 
